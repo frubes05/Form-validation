@@ -1,0 +1,27 @@
+.tablica{
+  margin:2% 10%;
+  padding:0 10%;
+  display: none;
+}
+
+
+
+.izadi:after{
+  content: '\f00d';
+  font-family: fontawesome;
+  padding:2rem;
+  cursor: pointer;
+}
+
+.loader{
+  text-align: center;
+}
+
+
+.alert{
+  margin-top: 2%;
+}
+
+.alert p{
+  margin-bottom: 0;
+}
